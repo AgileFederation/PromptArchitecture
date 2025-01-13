@@ -1,6 +1,8 @@
 # PromptArchitecture
 
-This is a repository for my Prompt Architecture Model paper. This work orginated with tha AIQL that I created a while ago. I got a lot of good feedback so decided to keep pushing in the same direction. I ended up with quite a comprehensive tiles or canvas model which I called Prompt Architecture Model. I received a lot of really good feedback (some positive and some negative, but all useful) with my last work and look forward to any challenges, comments or criticisms you my offer. 
+*Update: I'm creating a simple HTML page that demonstrates the model in action.*
+
+This is a repository for my Prompt Architecture Model paper. This work orginated with tha AIQL that I created a while ago. I got a lot of good feedback so decided to keep pushing in the same direction. I ended up with quite a comprehensive tiles or canvas model which I called Prompt Architecture Model. I received a lot of really good feedback (some positive and some negative, but all useful) with my last work and look forward to any challenges, comments or criticisms you may offer. 
 
 Here's the abstract from the paper.
 
